@@ -1,4 +1,4 @@
-# Bitcoin1
+# Bitcoin Simulation
 
 To start your Phoenix server:
 
